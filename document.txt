@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-XIN CHAO
-=======
-xin chào các bạn
->>>>>>> main2
+xin chào các bạn 2
+
